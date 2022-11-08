@@ -13,6 +13,7 @@ function App() {
     <>
     <div id="sidebar">
       <h1>React Router Contacts</h1>
+      <h2>Example App</h2>
       <div>
         <form id="search-form" role="search">
           <input
